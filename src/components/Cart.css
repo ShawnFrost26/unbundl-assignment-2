@@ -1,0 +1,11 @@
+.cart {
+    background-color: #d0d0d0;
+    border-radius: 4px;
+    padding: 16px;
+  }
+  
+  .cart-item {
+   
+    margin-bottom: 8px;
+    background-color: #ebebeb;
+  }
